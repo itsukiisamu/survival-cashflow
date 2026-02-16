@@ -1,5 +1,8 @@
 # Survival Cashflow
 
+**[👉 アプリを実際に使ってみる（Live Demo）](https://survival-cashflow.vercel.app/)**
+
+
 シンプルかつサバイバルな資金繰り管理アプリです。
 日々の残高推移を可視化し、資金ショートを防ぐための直感的なインターフェースを提供します。
 
